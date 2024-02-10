@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470400812857",
+    "project_id": "ezytransit-innerve",
+    "storage_bucket": "ezytransit-innerve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470400812857:android:5be439b49df1538e108ae8",
+        "android_client_info": {
+          "package_name": "com.example.ezytransit_innerve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Q1mbrLzv1tlYnhzLk2OyNbuz7aFsUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
